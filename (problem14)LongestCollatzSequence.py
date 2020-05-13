@@ -13,7 +13,7 @@ def chain_lenght(frstel):
         operand = next_element(operand)
         lenght += 1
     return lenght
-    
+
 def longest_chain_under(n):
     start_of_longest = 0
     lenght_of_longest = 0

@@ -1,4 +1,4 @@
-
+#https://projecteuler.net/problem=32
 from itertools import permutations
 from time import time
 

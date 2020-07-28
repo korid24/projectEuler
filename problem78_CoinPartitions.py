@@ -30,8 +30,7 @@ def p78():
         p.append(next_element)
         i+=1
     return i-1
-print(p78())
 
-
-
-print( "Time:", time() - start, "Sec.")
+if __name__ == '__main__':
+    print(p78())
+    print( "Time:", time() - start, "Sec.")

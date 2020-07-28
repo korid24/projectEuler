@@ -1,4 +1,4 @@
-#https://projecteuler.net/problem=60
+#https://projecteuler.net/problem=61
 from time import time
 start = time()
 

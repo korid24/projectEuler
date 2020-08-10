@@ -1,4 +1,4 @@
-#https://projecteuler.net/problem=83
+#https://projecteuler.net/problem=85
 from time import time
 from math import fabs
 start = time()
